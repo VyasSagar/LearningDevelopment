@@ -1,0 +1,192 @@
+// .Angular-box {
+//     background-color: #FFF;
+//     color: #c3002f;
+//     border: 0.5px solid #c3002f;
+// }
+// .React-box {
+//     background-color: #FFF;
+//     color: #53c0dd;
+//     border: 0.5px solid #53c0dd;
+// }
+// .Javascript-box {
+//     background-color: #FFF;
+//     color: #f7d800;
+//     border: 0.5px solid #f7d800;
+// }
+// .CSS-box {
+//     background-color: #FFF;
+//     color: #2091eb;
+//     border: 0.5px solid #2091eb;
+// }
+// .HTML-box {
+//     background-color: #FFF;
+//     color: #f75421;
+//     border: 0.5px solid #f75421;
+// }
+// .Java-box {
+//     background-color: #FFF;
+//     color: #0c86c0;
+//     border: 0.5px solid #0c86c0;
+// }
+// .Python-box {
+//     background-color: #FFF;
+//     color: #f7dd65;
+//     border: 0.5px solid #f7dd65;
+// }
+// .MySQL-box {
+//     background-color: #FFF;
+//     color: #42759c;
+//     border: 0.5px solid #42759c;
+// }
+// .MongoDB-box {
+//     background-color: #FFF;
+//     color: #00e661;
+//     border: 0.5px solid #001d2a;
+// }
+// .Docker-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Git-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Ansible-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Kubernetes-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Jenkins-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Selenium-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Appium-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Cypress-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid #c3002f;
+// }
+// .Tosca-box {
+//     background-color: #FFF;
+//     color: #fff;
+//     border: 0.5px solid ;
+// }
+
+.Angular-box:hover {
+    background-color: #c3002f;
+    border-radius: 10px;
+    color: #fff;
+}
+.React-box:hover {
+    background-color: #53c0dd;
+    border-radius: 10px;
+    color: #fff;
+}
+.Javascript-box:hover {
+    background-color: #f7d800;
+    border-radius: 10px;
+    color: #000;
+}
+.CSS-box:hover {
+    background-color: #2091eb;
+    border-radius: 10px;
+    color: #fff;
+}
+.HTML-box:hover {
+    background-color: #f75421;
+    border-radius: 10px;
+    color: #fff;
+}
+.Java-box:hover {
+    background-color: #0c86c0;
+    border-radius: 10px;
+    color: #fff;
+}
+.Python-box:hover {
+    background-color: #f7dd65;
+    border-radius: 10px;
+    color: #2f6695;
+}
+.MySQL-box:hover {
+    background-color: #42759c;
+    border-radius: 10px;
+    color: #df852c;
+}
+.MongoDB-box:hover {
+    background-color: #001d2a;
+    border-radius: 10px;
+    color: #00e661;
+}
+.Docker-box:hover {
+    background-color: #0396c0;
+    border-radius: 10px;
+    color: #fff;
+}
+.Git-box:hover {
+    background-color: #e84d31;
+    border-radius: 10px;
+    color: #3c2c01;
+}
+.Ansible-box:hover {
+    background-color: #191817;
+    border-radius: 10px;
+    color: #fff;
+}
+.Kubernetes-box:hover {
+    background-color: #306adf;
+    border-radius: 10px;
+    color: #fff;
+}
+.Jenkins-box:hover {
+    background-color: #cd4637;
+    border-radius: 10px;
+    color: #000;
+}
+.Selenium-box:hover {
+    background-color: #41aa29;
+    border-radius: 10px;
+    color: #fff;
+}
+.Appium-box:hover {
+    background-color: #c2e3e5;
+    border-radius: 10px;
+    color: #632c8c;
+}
+.Cypress-box:hover {
+    background-color: #f0fcf8;
+    border-radius: 10px;
+    color: #000;
+}
+.Tosca-box:hover {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    color: #2061aa;
+}
+.card{
+    font-size: x-large;
+    color: #2061aa;
+    border: 0.3px solid #8d939952;
+    box-shadow: 0 1px 5px #2061aa52!important;
+    border-radius: 8px;
+}
+.card:hover{
+    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35)!important;
+    font-size: xx-large;
+}

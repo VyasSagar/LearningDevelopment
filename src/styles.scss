@@ -1,4 +1,9 @@
+
 /* You can add global styles to this file, and also import other style files */
+
+body::-webkit-scrollbar{
+  width: 1px;
+}
 :host {
     font-family: 'Roboto', sans-serif;
     // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -113,9 +118,7 @@
   a.card:hover {
     height: 10vh;
     font-size: xx-large;
-    background: #c3002f;
-    color: #FFF;
-    border-radius: 8px;
+    border-radius: 12px;
 }
 
   .card-container .card:not(:last-child) {

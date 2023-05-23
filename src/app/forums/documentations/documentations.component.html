@@ -1,1 +1,12 @@
-<ckeditor [editor]="Editor" data="<p>Hello, world!</p>"></ckeditor>
+<div class="card-container">
+    <div style="width: 70%;padding-bottom: 25px;">
+        <input type="text" value="Untitled Document">
+    </div>
+
+    <div style="width: 70%;">
+        <ckeditor  [editor]="Editor" data="<p>Start Documenting Here!</p>" style="width: 50%;"></ckeditor>
+        <div style="padding-top: 25px;"><button class="button" routerLink="/home">Save</button></div>
+    </div>
+    
+    
+</div>

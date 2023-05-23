@@ -11,6 +11,9 @@ import { CKEditorModule } from '@ckeditor/ckeditor5-angular';
 import { DocumentationsComponent } from './forums/documentations/documentations.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { FooterComponent } from './footer/footer.component';
+import { ArsenalComponent } from './arsenal/arsenal.component';
+import { CertificationsComponent } from './certifications/certifications.component';
+import { SplashscreenComponent } from './splashscreen/splashscreen.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { FooterComponent } from './footer/footer.component';
     ForumsComponent,
     DocumentationsComponent,
     HomePageComponent,
-    FooterComponent
+    FooterComponent,
+    ArsenalComponent,
+    CertificationsComponent,
+    SplashscreenComponent
   ],
   imports: [
     BrowserModule,
